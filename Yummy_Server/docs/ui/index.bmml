@@ -5,8 +5,8 @@
         <text>A%20Web%20Page%0Ahttp%3A//yum.my</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="349" y="488" w="841" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="349" y="142" w="287" h="79" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="349" y="488" w="841" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="349" y="142" w="287" h="79" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <curvature>-1</curvature>
         <leftArrow>false</leftArrow>
@@ -14,7 +14,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Arrow" x="907" y="143" w="287" h="78" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Arrow" x="907" y="143" w="287" h="78" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <curvature>-1</curvature>
         <direction>bottom</direction>
@@ -23,7 +23,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="__group__" x="597" y="126" w="355" h="503" measuredW="355" measuredH="503" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="__group__" x="597" y="126" w="355" h="503" measuredW="355" measuredH="503" zOrder="7" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="355" h="503" measuredW="355" measuredH="503" zOrder="0" locked="false" isInGroup="26">
           <groupChildrenDescriptors>
@@ -33,25 +33,7 @@
                 <orientation>portrait</orientation>
               </controlProperties>
             </control>
-            <control controlID="1" controlTypeID="__group__" x="72" y="144" w="211" h="211" measuredW="211" measuredH="211" zOrder="1" locked="false" isInGroup="0">
-              <groupChildrenDescriptors>
-                <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="3" y="4" w="205" h="205" measuredW="400" measuredH="313" zOrder="0" locked="false" isInGroup="1">
-                  <controlProperties>
-                    <borderStyle>none</borderStyle>
-                    <src>./imgs/steaknutrition.jpg</src>
-                    <text/>
-                  </controlProperties>
-                </control>
-                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="211" h="211" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
-                  <controlProperties>
-                    <backgroundAlpha>0</backgroundAlpha>
-                    <borderStyle>square</borderStyle>
-                    <verticalScrollbar>false</verticalScrollbar>
-                  </controlProperties>
-                </control>
-              </groupChildrenDescriptors>
-            </control>
-            <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="72" y="359" w="211" h="10" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="0">
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="72" y="359" w="211" h="10" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="0">
               <controlProperties>
                 <curvature>0</curvature>
                 <leftArrow>false</leftArrow>
@@ -59,31 +41,45 @@
                 <text/>
               </controlProperties>
             </control>
-            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="159" y="368" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="0">
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="159" y="368" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="0">
               <controlProperties>
                 <borderStyle>none</borderStyle>
                 <icon>CameraIcon%7Cmedium</icon>
               </controlProperties>
             </control>
-            <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="206" y="370" w="-1" h="-1" measuredW="46" measuredH="55" zOrder="4" locked="false" isInGroup="0">
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="206" y="370" w="-1" h="-1" measuredW="46" measuredH="55" zOrder="5" locked="false" isInGroup="0">
               <controlProperties>
                 <icon>UsersIcon%7Cmedium</icon>
                 <text>Around</text>
               </controlProperties>
             </control>
-            <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="102" y="369" w="-1" h="-1" measuredW="32" measuredH="55" zOrder="5" locked="false" isInGroup="0">
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="102" y="369" w="-1" h="-1" measuredW="32" measuredH="55" zOrder="6" locked="false" isInGroup="0">
               <controlProperties>
                 <icon>UserIcon%7Cmedium</icon>
                 <text>Me</text>
               </controlProperties>
             </control>
-            <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="72" y="131" w="211" h="10" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="0">
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="72" y="131" w="211" h="10" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="0">
               <controlProperties>
                 <backgroundAlpha>1</backgroundAlpha>
                 <curvature>0</curvature>
                 <leftArrow>false</leftArrow>
                 <rightArrow>false</rightArrow>
                 <text/>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="75" y="148" w="205" h="205" measuredW="209" measuredH="209" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <src>./imgs/index_sample.png</src>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="72" y="144" w="211" h="211" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>0</backgroundAlpha>
+                <borderStyle>square</borderStyle>
+                <verticalScrollbar>false</verticalScrollbar>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
@@ -96,25 +92,21 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="632" y="626" w="-1" h="-1" measuredW="275" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>24</size>
-        <text>You%20will%20never%20fat%20alone.</text>
-      </controlProperties>
-    </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="926" y="385" w="256" h="75" measuredW="221" measuredH="75" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="926" y="385" w="256" h="75" measuredW="221" measuredH="75" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <icon>DownloadIcon%7Clarge</icon>
         <text>%20%20%20%20%20%20%20Download%0A%20%20%20Avilable%20on%20the%20AppStore</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="358" y="324" w="271" h="136" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="358" y="324" w="271" h="136" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>16777215</color>
+        <italic>false</italic>
         <text>_%22You%20will%20never%20fat%20alone...%22_%0ALorem%20sit%20amrt%2C%20consectetur%20adipiscing%20elit.%0A-%20Lorem%20ipsum%20dolor%20sit%20amet.%0A-%20Vestibulum%20nec%20felis%20risus%0A-%20Phasellus%20in%20purus%20cursus%20est%0A-%20Fusce%20vitae%20mi%20fringilla%0A-%20Maecenas%20et%20ipsum%20neque</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="__group__" x="1020" y="103" w="168" h="23" measuredW="168" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="__group__" x="1020" y="103" w="168" h="23" measuredW="168" measuredH="23" zOrder="10" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="123" y="0" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="0" locked="false" isInGroup="33">
           <controlProperties>
@@ -124,6 +116,52 @@
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="121" measuredH="23" zOrder="1" locked="false" isInGroup="33">
           <controlProperties>
             <text>Already%20a%20member%3F</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="349" y="146" w="291" h="344" measuredW="294" measuredH="352" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imgs/index_left.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="905" y="142" w="290" h="348" measuredW="290" measuredH="352" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imgs/index_right.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="349" y="488" w="844" h="187" measuredW="844" measuredH="187" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="371" y="0" w="179" h="186" measuredW="333" measuredH="335" zOrder="0" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./imgs/burberry-london-trench-coat_30.gif</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="2" w="186" h="185" measuredW="333" measuredH="335" zOrder="1" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./imgs/burberry-london-trench-coat_30.gif</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="185" y="2" w="186" h="185" measuredW="333" measuredH="335" zOrder="2" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./imgs/burberry-london-trench-coat_30.gif</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="550" y="2" w="186" h="185" measuredW="333" measuredH="335" zOrder="3" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./imgs/burberry-london-trench-coat_30.gif</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="658" y="2" w="186" h="185" measuredW="333" measuredH="335" zOrder="4" locked="false" isInGroup="41">
+          <controlProperties>
+            <src>./imgs/burberry-london-trench-coat_30.gif</src>
+            <text/>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
