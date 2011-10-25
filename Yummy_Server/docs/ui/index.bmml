@@ -1,11 +1,11 @@
-<mockup version="1.0" skin="sketch" measuredW="1198" measuredH="703" mockupW="856" mockupH="679">
+<mockup version="1.0" skin="sketch" measuredW="1057" measuredH="666" mockupW="856" mockupH="660">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="342" y="24" w="856" h="679" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="201" y="6" w="856" h="660" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20Web%20Page%0Ahttp%3A//yum.my</text>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="__group__" x="597" y="126" w="355" h="503" measuredW="355" measuredH="503" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="__group__" x="456" y="88" w="355" h="503" measuredW="355" measuredH="503" zOrder="2" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="__group__" x="0" y="0" w="355" h="503" measuredW="355" measuredH="503" zOrder="0" locked="false" isInGroup="26">
           <groupChildrenDescriptors>
@@ -74,21 +74,21 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="926" y="385" w="256" h="75" measuredW="221" measuredH="75" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="785" y="367" w="256" h="75" measuredW="221" measuredH="75" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>11982760</color>
         <icon>DownloadIcon%7Clarge</icon>
         <text>%20%20%20%20%20%20%20Download%0A%20%20%20Avilable%20on%20the%20AppStore</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="358" y="324" w="271" h="136" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="217" y="306" w="271" h="136" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <italic>false</italic>
         <text>_%22You%20will%20never%20fat%20alone...%22_%0ALorem%20sit%20amrt%2C%20consectetur%20adipiscing%20elit.%0A-%20Lorem%20ipsum%20dolor%20sit%20amet.%0A-%20Vestibulum%20nec%20felis%20risus%0A-%20Phasellus%20in%20purus%20cursus%20est%0A-%20Fusce%20vitae%20mi%20fringilla%0A-%20Maecenas%20et%20ipsum%20neque</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="__group__" x="1020" y="103" w="168" h="23" measuredW="168" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="__group__" x="879" y="85" w="168" h="23" measuredW="168" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Link" x="123" y="0" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="0" locked="false" isInGroup="33">
           <controlProperties>
@@ -102,7 +102,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="348" y="140" w="-1" h="-1" measuredW="846" measuredH="536" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="201" y="70" w="856" h="577" measuredW="862" measuredH="597" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./imgs/index_2.png</src>
         <text/>
