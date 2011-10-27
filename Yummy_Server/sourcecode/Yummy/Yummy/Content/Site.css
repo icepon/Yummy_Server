@@ -4,12 +4,14 @@ to use a different color start by replacing all instances of
 #5c87b2 with your new color.
 ----------------------------------------------------------*/
 body {
-    background: #ffe29f url('images/footer_bg.png') no-repeat center bottom;
+    background: #fff3d5 url('images/footer_bg.png') no-repeat;
+    background-position: center bottom;
     font-size: .85em;
     font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
     margin: 0;
     padding: 0;
     color: #696969;
+    height: 680px;
 }
 
 a:link {
