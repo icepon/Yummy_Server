@@ -6,3 +6,11 @@ C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.dll
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.pdb
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\Yummy.Tests.dll.config
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\Yummy.Tests.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\Yummy.Tests.pdb
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\Yummy.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\Yummy.pdb
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.pdb
