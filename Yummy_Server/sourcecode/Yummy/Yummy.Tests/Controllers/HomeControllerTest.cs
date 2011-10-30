@@ -17,12 +17,8 @@ namespace Yummy.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
-
             // Act
             ViewResult result = controller.Index() as ViewResult;
-
-            // Assert
-            Assert.AreEqual("Welcome to ASP.NET MVC!", result.ViewBag.Message);
         }
 
         [TestMethod]
@@ -30,10 +26,8 @@ namespace Yummy.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
-
             // Act
             ViewResult result = controller.About() as ViewResult;
-
             // Assert
             Assert.IsNotNull(result);
         }

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dfcdcd4c-71f5-4061-9fde-06b1794ae5aa" name="Vee@VEE-PC 2011-10-30 21:35:22" runUser="Vee-PC\Vee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d09dfde9-da66-4c86-a71f-c3b41c9fe6c8">
+    <Deployment runDeploymentRoot="Vee_VEE-PC 2011-10-30 21_35_22">
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-30T21:35:22.5180000+07:00" queuing="2011-10-30T21:35:22.6420000+07:00" start="2011-10-30T21:35:22.6730000+07:00" finish="2011-10-30T21:35:23.2190000+07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82">
+      <Execution id="b52a54ea-dcc7-491e-9a21-16689fb36b25" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.HomeControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="About" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="16b67666-5f55-33ab-e17e-7c7ced7ffb9d">
+      <Execution id="4c7d2f21-2a8f-400e-ba98-b1e22646dd1b" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.HomeControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="16b67666-5f55-33ab-e17e-7c7ced7ffb9d" executionId="4c7d2f21-2a8f-400e-ba98-b1e22646dd1b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82" executionId="b52a54ea-dcc7-491e-9a21-16689fb36b25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4c7d2f21-2a8f-400e-ba98-b1e22646dd1b" testId="16b67666-5f55-33ab-e17e-7c7ced7ffb9d" testName="About" computerName="VEE-PC" duration="00:00:00.0268084" startTime="2011-10-30T21:35:22.9020000+07:00" endTime="2011-10-30T21:35:23.1600000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c7d2f21-2a8f-400e-ba98-b1e22646dd1b">
+    </UnitTestResult>
+    <UnitTestResult executionId="b52a54ea-dcc7-491e-9a21-16689fb36b25" testId="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82" testName="Index" computerName="VEE-PC" duration="00:00:00.0228040" startTime="2011-10-30T21:35:23.1630000+07:00" endTime="2011-10-30T21:35:23.1930000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b52a54ea-dcc7-491e-9a21-16689fb36b25">
+    </UnitTestResult>
+  </Results>
+</TestRun>
