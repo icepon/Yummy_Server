@@ -5,3 +5,10 @@ C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\Yummy.dll
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\Yummy.pdb
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.pdb
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\EntityFramework.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\EntityFramework.xml
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\Yummy.dll
+D:\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\obj\Debug\Yummy.pdb
