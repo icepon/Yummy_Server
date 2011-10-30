@@ -70,6 +70,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\images\big_smile.png" />
+    <Content Include="Content\images\btn_appstore.png" />
     <Content Include="Content\images\coffee_cup.png" />
     <Content Include="Content\images\desserts.png" />
     <Content Include="Content\images\iphone4_front.png" />

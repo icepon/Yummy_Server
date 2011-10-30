@@ -3,6 +3,10 @@ The base color for this template is #5c87b2. If you'd like
 to use a different color start by replacing all instances of
 #5c87b2 with your new color.
 ----------------------------------------------------------*/
+img
+{
+	border: none;
+}
 body {
     background: #fa9105 url('images/orange_bg.png') repeat-x;
     background-position: center bottom;
@@ -276,7 +280,7 @@ div#title {
 }
 
 #logindisplay {
-    font-size: 12px;
+    font-size: 14px;
     display: block;
     text-align: right;
     margin: 10px;
