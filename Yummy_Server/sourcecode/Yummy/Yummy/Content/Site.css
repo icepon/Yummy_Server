@@ -9,7 +9,7 @@ img
 }
 body {
     background: #fa9105 url('images/orange_bg.png') repeat-x;
-    background-position: center bottom;
+    background-position: center top;
     font-size: .85em;
     font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
     margin: 0;
@@ -26,7 +26,7 @@ body {
 	text-shadow: 1px 1px #ffd574, -1px -1px #ce5100;
 	text-align: center;
 	letter-spacing: 5px;
-	margin: 90px 0 0 0;
+	margin: 80px 0 0 0;
 	padding: 0px;
 }
 .app_promote
@@ -129,7 +129,7 @@ header h1, #header h1 {
 }
 
 #main {
-    padding: 30px 30px 15px 30px;
+    padding: 0px;
     border-radius: 4px 0 0 0;
     -webkit-border-radius: 4px 0 0 0;
     -moz-border-radius: 4px 0 0 0;
@@ -283,7 +283,7 @@ div#title {
     font-size: 14px;
     display: block;
     text-align: right;
-    margin: 10px;
+    margin: 0px;
     color: White;
 }
 
