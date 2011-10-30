@@ -4,7 +4,7 @@ to use a different color start by replacing all instances of
 #5c87b2 with your new color.
 ----------------------------------------------------------*/
 body {
-    background: #fff3d5 url('images/footer_bg.png') no-repeat;
+    background: #fa9105 url('images/orange_bg.png') repeat-x;
     background-position: center bottom;
     font-size: .85em;
     font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
@@ -13,7 +13,29 @@ body {
     color: #696969;
     height: 680px;
 }
-
+.app_header
+{
+	color: #fff;
+	font-weight: normal;
+	font-size: 7em;
+	font-family: 'Chewy', cursive;
+	text-shadow: 1px 1px #ffd574, -1px -1px #ce5100;
+	text-align: center;
+	letter-spacing: 5px;
+	margin: 90px 0 0 0;
+	padding: 0px;
+}
+.app_promote
+{
+	color: #fff;
+	font-weight: normal;
+	font-size: 2em;
+	font-family: 'Chewy', cursive;
+	text-shadow: 1px 1px #ffd574, -1px -1px #ce5100;
+	text-align: center;
+	letter-spacing: 2px;
+	padding-top: 10px;
+}
 a:link {
     color: #034af3;
     text-decoration: underline;
