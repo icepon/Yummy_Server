@@ -43,14 +43,17 @@ body {
 .app_concept
 {
 	color: #fff;
-	list-style: none;
 	font-size: 52px;
 	font-family: 'Chewy', cursive;
 	text-shadow: 1px 1px #ffd574, -1px -1px #ce5100;
+	padding: 0px;
+	margin: 0px;
 }
 .app_concept li
 {
-	text-align: left;
+	text-align: center;
+	display: inline-table;
+	width: 240px;
 }
 a:link {
     color: #034af3;
