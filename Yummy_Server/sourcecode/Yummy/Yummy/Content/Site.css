@@ -40,6 +40,18 @@ body {
 	letter-spacing: 2px;
 	padding-top: 10px;
 }
+.app_concept
+{
+	color: #fff;
+	list-style: none;
+	font-size: 52px;
+	font-family: 'Chewy', cursive;
+	text-shadow: 1px 1px #ffd574, -1px -1px #ce5100;
+}
+.app_concept li
+{
+	text-align: left;
+}
 a:link {
     color: #034af3;
     text-decoration: underline;

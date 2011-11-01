@@ -2,20 +2,34 @@
     ViewBag.Title = "Yummy - You will naver fat alone";
 }
 <div>
-    <ul>
-        <li style="display: inline-block; width: 15%; vertical-align: top;">
-        </li>
+    <ul style="text-align: center;">
         <li style="display: inline-block; vertical-align: top;">
-            <img alt="iphone4" src="../../Content/images/iphone4_front.png" style="margin: auto; padding-top: 10px;" />
+            <img alt="iphone4" src="../../Content/images/iphone4_front.png" style="margin: auto; padding-top: 40px;" />
         </li>
         <li style="display: inline-block; text-align: center;">
             <h1 class="app_header">YUMMY</h1>
             <h3 class="app_promote">you will naver fat alone.</h3>
             <img src="../../Content/images/big_smile.png" /><br />
+            <div id="app_concept" style="margin-left: 25px;">
+                <ul class="app_concept">
+                    <li style="width: 270px;">๐ Shoot ๐</li>
+                    <li style="width: 270px;">๐ Share ๐</li>
+                    <li style="width: 270px;">๐ Yummy ๐</li>
+                </ul>
+            </div>
             <a href="#">
-                <img style="margin-top: 80px;" src="../../Content/images/btn_appstore.png" />
+                <img style="margin-top: 50px;" src="../../Content/images/btn_appstore.png" />
             </a>
-            @*<img style="padding-top: 60px;" src="../../Content/images/coffee_cup.png" />*@
         </li>
     </ul>
 </div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#app_concept").easySlider({
+            auto: true,
+            continuous: true,
+            prevText: "",
+		    nextText: ""
+        });
+    });
+</script>
