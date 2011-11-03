@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="38441304-8f62-4a03-b6f6-73f82b2a342c" name="Vee@VEE-PC 2011-11-03 13:27:22" runUser="Vee-PC\Vee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="882b3b46-126b-4c43-b3fa-85eabdb574ee">
+    <Deployment runDeploymentRoot="Vee_VEE-PC 2011-11-03 13_27_22">
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\Libs\FlickrNet.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-03T13:27:22.6474000+07:00" queuing="2011-11-03T13:27:23.8778000+07:00" start="2011-11-03T13:27:24.0798000+07:00" finish="2011-11-03T13:28:44.1060000+07:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="3" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="1" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VEE-PC" outcome="Error" timestamp="2011-11-03T13:28:44.0780000+07:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82">
+      <Execution id="a36ba276-cdaa-4bda-9bc8-62d2cd581428" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.HomeControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="It_should_return_JsonResult_when_UploadPhoto" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4">
+      <Execution id="2d850a0a-cdd4-4485-90e7-bafa1dadd00f" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.ServiceControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="It_should_return_JsonResult_when_UploadPhoto" />
+    </UnitTest>
+    <UnitTest name="About" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="16b67666-5f55-33ab-e17e-7c7ced7ffb9d">
+      <Execution id="d9727936-e9c2-4b97-85cf-a9b75e3a98fb" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.HomeControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="16b67666-5f55-33ab-e17e-7c7ced7ffb9d" executionId="d9727936-e9c2-4b97-85cf-a9b75e3a98fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4" executionId="2d850a0a-cdd4-4485-90e7-bafa1dadd00f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82" executionId="a36ba276-cdaa-4bda-9bc8-62d2cd581428" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d9727936-e9c2-4b97-85cf-a9b75e3a98fb" testId="16b67666-5f55-33ab-e17e-7c7ced7ffb9d" testName="About" computerName="VEE-PC" duration="00:00:00.0870335" startTime="2011-11-03T13:27:24.2628000+07:00" endTime="2011-11-03T13:27:25.0762000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d9727936-e9c2-4b97-85cf-a9b75e3a98fb">
+    </UnitTestResult>
+    <UnitTestResult executionId="2d850a0a-cdd4-4485-90e7-bafa1dadd00f" testId="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4" testName="It_should_return_JsonResult_when_UploadPhoto" computerName="VEE-PC" duration="00:01:19.0098000" startTime="2011-11-03T13:27:25.0962000+07:00" endTime="2011-11-03T13:28:44.1060000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d850a0a-cdd4-4485-90e7-bafa1dadd00f">
+    </UnitTestResult>
+    <UnitTestResult executionId="a36ba276-cdaa-4bda-9bc8-62d2cd581428" testId="d0c11d91-1e6e-1ae4-8b0d-6b687a068d82" testName="Index" computerName="VEE-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a36ba276-cdaa-4bda-9bc8-62d2cd581428">
+    </UnitTestResult>
+  </Results>
+</TestRun>

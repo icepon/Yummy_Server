@@ -14,3 +14,6 @@ C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.dll
 C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\obj\Debug\Yummy.Tests.pdb
+C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\FlickrNet.dll
+C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy.Tests\bin\Debug\EntityFramework.xml

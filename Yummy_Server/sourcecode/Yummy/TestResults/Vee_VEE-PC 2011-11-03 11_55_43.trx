@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="52b35e92-94cf-4b64-8fb3-ccd1ef11b890" name="Vee@VEE-PC 2011-11-03 11:55:43" runUser="Vee-PC\Vee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="159491c8-12c1-4c65-9d0b-fa39b8770b71">
+    <Deployment runDeploymentRoot="Vee_VEE-PC 2011-11-03 11_55_43">
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\Libs\FlickrNet.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-03T11:55:43.8122000+07:00" queuing="2011-11-03T11:55:45.2642000+07:00" start="2011-11-03T11:55:45.5282000+07:00" finish="2011-11-03T11:56:12.4652000+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="It_Should_UploadPhoto" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="f0da780e-2b42-312e-8bb4-abbd13ee5b04">
+      <Execution id="f290cdb6-560c-47d5-baf2-569b9adea1a6" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.ServiceControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="It_Should_UploadPhoto" />
+      <AspNet webSiteUrl="http://localhost:62867/">
+        <Host pathToWebApp="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f0da780e-2b42-312e-8bb4-abbd13ee5b04" executionId="f290cdb6-560c-47d5-baf2-569b9adea1a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f290cdb6-560c-47d5-baf2-569b9adea1a6" testId="f0da780e-2b42-312e-8bb4-abbd13ee5b04" testName="It_Should_UploadPhoto" computerName="VEE-PC" startTime="2011-11-03T11:55:45.8922000+07:00" endTime="2011-11-03T11:56:12.1652000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f290cdb6-560c-47d5-baf2-569b9adea1a6">
+      <Output>
+        <ErrorInfo>
+          <Message>The Web request 'http://localhost:62867/' completed successfully without running the test. This can occur when configuring the Web application for testing fails (an ASP.NET server error occurs when processing the request), or when no ASP.NET page is executed (the URL may point to an HTML page, a Web service, or a directory listing). Running tests in ASP.NET requires the URL to resolve to an ASP.NET page and for the page to execute properly up to the Load event. The response from the request is stored in the file 'WebRequestResponse_It_Should_UploadPhot.html' with the test results; typically this file can be opened with a Web browser to view its contents.</Message>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="VEE-PC\WebRequestResponse_It_Should_UploadPhot.html" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+</TestRun>

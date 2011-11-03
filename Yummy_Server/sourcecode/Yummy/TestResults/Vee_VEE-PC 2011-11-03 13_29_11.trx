@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bb7b29ea-a302-4f03-89b9-d4677ba8800e" name="Vee@VEE-PC 2011-11-03 13:29:11" runUser="Vee-PC\Vee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="ef8bc187-9768-4899-87ba-aafccae9b386">
+    <Deployment runDeploymentRoot="Vee_VEE-PC 2011-11-03 13_29_11">
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\Libs\FlickrNet.dll" />
+      <DeploymentItem filename="C:\Users\Vee\Documents\Visual Studio 2010\Projects\Yummy\Yummy_Server\sourcecode\Yummy\Yummy\bin\Yummy.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-03T13:29:11.2300000+07:00" queuing="2011-11-03T13:29:12.4870000+07:00" start="2011-11-03T13:29:12.6560000+07:00" finish="2011-11-03T13:29:31.1450000+07:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VEE-PC" outcome="Error" timestamp="2011-11-03T13:29:31.1440000+07:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="It_should_return_JsonResult_when_UploadPhoto" storage="c:\users\vee\documents\visual studio 2010\projects\yummy\yummy_server\sourcecode\yummy\yummy.tests\bin\debug\yummy.tests.dll" id="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4">
+      <Execution id="9eebe093-3643-4fce-b8f2-6ff321a87195" />
+      <TestMethod codeBase="C:/Users/Vee/Documents/Visual Studio 2010/Projects/Yummy/Yummy_Server/sourcecode/Yummy/Yummy.Tests/bin/Debug/Yummy.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Yummy.Tests.Controllers.ServiceControllerTest, Yummy.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="It_should_return_JsonResult_when_UploadPhoto" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4" executionId="9eebe093-3643-4fce-b8f2-6ff321a87195" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9eebe093-3643-4fce-b8f2-6ff321a87195" testId="cdd6127e-f7dd-2c7a-e4bb-7c85a03211a4" testName="It_should_return_JsonResult_when_UploadPhoto" computerName="VEE-PC" duration="00:00:18.3270000" startTime="2011-11-03T13:29:12.8180000+07:00" endTime="2011-11-03T13:29:31.1450000+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9eebe093-3643-4fce-b8f2-6ff321a87195">
+    </UnitTestResult>
+  </Results>
+</TestRun>
